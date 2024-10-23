@@ -1,0 +1,14 @@
+body {
+  /* In your global CSS file (e.g., App.css or index.css) */
+body, h1, h2, h3, h4, h5, h6, p, a, button, input, textarea {
+  font-family: 'Poppins', sans-serif;
+}
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

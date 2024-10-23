@@ -1,0 +1,26 @@
+.board {
+  display: flex;
+  gap: 1rem;
+  overflow-x: auto;
+}
+
+.column {
+  background: #f4f4f4;
+  padding: 1rem;
+  border-radius: 8px;
+  min-width: 300px;
+}
+
+.card {
+  background: white;
+  border: 1px solid #ddd;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  border-radius: 8px;
+}
+.kanban-app {
+  font-family: 'Roboto', sans-serif;
+  padding: 1rem;
+  background-color: #f7f8fa;
+  height: 100vh;
+}
